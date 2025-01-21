@@ -18,14 +18,12 @@ const styles = StyleSheet.create({
     },
     content: {
         flex: 1,
-        // borderWidth: 1,
         textAlign: 'center',
         fontSize: 16,
         justifyContent: 'center',
         padding: 5,
     },
     contentCountry:{
-        // borderWidth: 1,
         padding: 5,
         fontSize: 20,
         textAlign: 'center',
