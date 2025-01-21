@@ -17,11 +17,11 @@ const styles = StyleSheet.create({
         borderStyle: 'dashed',
     },
     content: {
+        padding: 5,
         flex: 1,
         textAlign: 'center',
         fontSize: 16,
         justifyContent: 'center',
-        padding: 5,
     },
     contentCountry:{
         padding: 5,
